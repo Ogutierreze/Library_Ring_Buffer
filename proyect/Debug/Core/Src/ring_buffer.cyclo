@@ -1,0 +1,6 @@
+../Core/Src/ring_buffer.c:11:9:ring_buffer_size	3
+../Core/Src/ring_buffer.c:27:9:ring_buffer_is_empty	3
+../Core/Src/ring_buffer.c:40:9:ring_buffer_is_full	2
+../Core/Src/ring_buffer.c:51:6:ring_buffer_reset	5
+../Core/Src/ring_buffer.c:72:6:ring_buffer_write	5
+../Core/Src/ring_buffer.c:95:9:ring_buffer_read	4
